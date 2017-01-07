@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contactList> 
+  <contact id="5750eacb-6c4d-4a78-a6de-732d07af9600"> 
+    <name>刘梦杰</name>  
+    <gender>男</gender>  
+    <age>20</age>  
+    <jiguan>广东</jiguan>  
+    <qq>920579930</qq>  
+    <email>920579930@qq.com</email> 
+  </contact>  
+  <contact id="2e3d8363-b682-4271-aedc-5433d17e6255"> 
+    <name>Rose</name>  
+    <gender>女</gender>  
+    <age>21</age>  
+    <jiguan>湖南</jiguan>  
+    <qq>123456780</qq>  
+    <email>123456780@qq.com</email> 
+  </contact>  
+  <contact id="268a63ec-6c15-4cb4-9606-db624a2ed49f"> 
+    <name>Tylor Swift</name>  
+    <gender>女</gender>  
+    <age>30</age>  
+    <jiguan>广西</jiguan>  
+    <qq>1398748561</qq>  
+    <email>1398748561@163.com</email> 
+  </contact>  
+  <contact id="e735f791-1b28-4101-973a-9078ea8be02e"> 
+    <name>Tomcat</name>  
+    <gender>男</gender>  
+    <age>28</age>  
+    <jiguan>广东</jiguan>  
+    <qq>8587984641</qq>  
+    <email>1398748561@163.com</email> 
+  </contact> 
+</contactList>
